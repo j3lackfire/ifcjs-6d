@@ -1,9 +1,16 @@
 export const projects = [
   {
-    name: "Load 3D Model",
-    id: "input-ifc",
+    name: "Where cycle - Demo Data",
+    id: "01",
     url: "./ifc/01.ifc",
+    description: "This is the given data from the mentors."
   },
+
+  // {
+  //   name: "Load 3D Model",
+  //   id: "input-ifc",
+  //   url: "./ifc/01.ifc",
+  // },
 
   {
     name: "Nice Cottage",
@@ -36,34 +43,4 @@ export const projects = [
     description: "This IFC Model has quantity values. You can simulate the carbon footprint of its objects."
   },
 
-  {
-    name: "Sample Model by IfcJS",
-    id: "01",
-    url: "./ifc/01.ifc",
-    description: "This IFC Model has NO quantity values. You can view the 3D geometry but you can't simulate the carbon footprint of its objects."
-  },
-  {
-    name: "Sample Model by IfcJS",
-    id: "02",
-    url: "./ifc/02.ifc",
-    description: "This IFC Model has NO quantity values. You can view the 3D geometry but you can't simulate the carbon footprint of its objects."
-  },
-  {
-    name: "Appartementen Schependomlaan",
-    id: "03",
-    url: "./ifc/03.ifc",
-    description: "This IFC Model has NO quantity values. You can view the 3D geometry but you can't simulate the carbon footprint of its objects."
-  },
-  {
-    name: "Villa Savoy",
-    id: "04",
-    url: "./ifc/04.ifc",
-    description: "This IFC Model has NO quantity values. You can view the 3D geometry but you can't simulate the carbon footprint of its objects."
-  },
-  {
-    name: "Sample House by Revit",
-    id: "07",
-    url: "./ifc/07.ifc",
-    description: "This IFC Model has NO quantity values. You can view the 3D geometry but you can't simulate the carbon footprint of its objects."
-  },
 ];
