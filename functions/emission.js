@@ -1,8 +1,8 @@
 const emission = {
   "Brick, Common": 300,
   "Gypsum Wall Board": 31.155,
-  "Sand": 7.5,
-  "Concrete, Precast": 67,
+  "Sand": 0.75,
+  "Concrete, Precast": 6.7,
   "Rigid insulation": 64,
   "Aluminum": 157.5,
   "Metal - Painted - Grey": 123.9,
@@ -13,7 +13,7 @@ const emission = {
   "Fenster - Kunststoff wei": 52,
   "Fenster - Kunststoff": 52,
 
-	// "Concrete, Lightweight": 20.16, //201.6 - too hight
+	"Concrete, Lightweight": 201.6, //201.6 - too hight
 
 //   "Air": 1,
 //   "Cherry": 1,
