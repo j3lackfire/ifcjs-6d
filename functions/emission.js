@@ -3,7 +3,7 @@ const emission = {
   "Gypsum Wall Board": 31.155,
   "Sand": 0.00075,
   "Concrete, Precast": 0.0067,
-  "Rigid insulation": 0.0064,
+  // "Rigid insulation": 0.0064,
   "Aluminum": 157.5,
   "Metal - Painted - Grey": 123.9,
   "Metal Door - Brindle": 123.9,
