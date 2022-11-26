@@ -1,4 +1,4 @@
-const emission = {
+/*const emission = {
   "Aerated concrete, autoclaved block, non-reinforced, for exterior walls": 0.43,
   "Aerated concrete, autoclaved block, non-reinforced, for interior walls": 0.41,
   "Aerated concrete, autoclaved, reinforced floor and wall element": 0.42,
@@ -274,3 +274,4 @@ export default function getEmission(material) {
   const emissionFactor = emission[material] ? emission[material] : 0;
   return emissionFactor;
 }
+*/
