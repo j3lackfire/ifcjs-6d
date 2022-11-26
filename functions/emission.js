@@ -3,7 +3,7 @@ const emission = {
   "Concrete, Lightweight": 201.6,
   // "Gypsum Wall Board": 31.155,
   "Sand": 7.5,
-  "Concrete, Precast": 67,
+  // "Concrete, Precast": 67,
   "Damp-proofing": 1,
   "Plaster": 1,
   // "Rigid insulation": 64,
