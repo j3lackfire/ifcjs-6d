@@ -37,10 +37,10 @@ const projects = [
   },
 
   {
-    name: "Sample Model by IfcJS",
+    name: "Wherecycle 2022 demo model - Team 10 - Duc and Nhu",
     id: "01",
     url: "./ifc/01.ifc",
-    description: "This IFC Model has NO quantity values. You can view the 3D geometry but you can't simulate the carbon footprint of its objects."
+    description: "Demo model of the where cycle challenge!."
   },
   {
     name: "Sample Model by IfcJS",
