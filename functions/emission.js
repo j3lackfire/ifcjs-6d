@@ -1,5 +1,5 @@
 const emission = {
-  "Brick, Common": 300,
+  // "Brick, Common": 300,
   "Concrete, Lightweight": 201.6,
   "Gypsum Wall Board": 31.155,
   "Sand": 7.5,
@@ -7,7 +7,7 @@ const emission = {
   "Damp-proofing": 1,
   "Plaster": 1,
   "Rigid insulation": 64,
-  "Air": 1,
+  // "Air": 1,
   "Aluminum": 157.5,
   "Metal - Painted - Grey": 123.9,
   "Metal Door - Brindle": 123.9,
