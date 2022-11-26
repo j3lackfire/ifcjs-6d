@@ -106009,8 +106009,8 @@ async function getQuantityByElement(ifcLoader, model, elementId) {
 const emission = {
 	"Brick, Common": 300,
 	"Gypsum Wall Board": 31.155,
-	"Sand": 0.075,
-	"Concrete, Precast": 0.67,
+	"Sand": 0.00075,
+	"Concrete, Precast": 0.0067,
 	"Rigid insulation": 64,
 	"Aluminum": 157.5,
 	"Metal - Painted - Grey": 123.9,
@@ -106021,7 +106021,7 @@ const emission = {
 	"Fenster - Kunststoff wei": 52,
 	"Fenster - Kunststoff": 52,
   
-	  "Concrete, Lightweight": 201.6, //201.6 - too hight
+	"Concrete, Lightweight": 201.6, //201.6 - too hight
   
   //   "Air": 1,
   //   "Cherry": 1,

@@ -1,8 +1,8 @@
 const emission = {
   "Brick, Common": 300,
   "Gypsum Wall Board": 31.155,
-  "Sand": 0.075,
-  "Concrete, Precast": 0.67,
+  "Sand": 0.00075,
+  "Concrete, Precast": 0.0067,
   "Rigid insulation": 64,
   "Aluminum": 157.5,
   "Metal - Painted - Grey": 123.9,
