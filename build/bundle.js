@@ -106021,7 +106021,7 @@ const emission = {
 	"Fenster - Kunststoff wei": 52,
 	"Fenster - Kunststoff": 52,
 
-	"Concrete, Lightweight": 201.6, //201.6 - too hight
+	"Concrete, Lightweight": 100.8, //201.6 - too hight
 
 	//   "Air": 1,
 	//   "Cherry": 1,
